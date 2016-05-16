@@ -60,7 +60,7 @@ def decrypt_file(ciphertext, key,file_name):
 
 
 
-_BUCKET_NAME = 'cloudbuck' #name of your google bucket.
+_BUCKET_NAME = '' #name of your google bucket.
 _API_VERSION = 'v1'
 D={}
 
